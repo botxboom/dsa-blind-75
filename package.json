@@ -11,6 +11,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^20.0.0"
+  },
   "devDependencies": {
     "tsc-watch": "^6.2.1",
     "typescript": "^5.7.2"
