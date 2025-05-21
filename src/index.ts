@@ -15,7 +15,3 @@ head.next.next.next.next = new ListNode(5);
 
 let slow: ListNode = head;
 let fast: ListNode = head;
-
-console.log(slow.val);
-
-console.log(slow.val);
